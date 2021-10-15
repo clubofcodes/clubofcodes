@@ -9,8 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clubofcodes&label=PROFILE+VIEWS&color=red&style=plastic" alt="clubofcodes" /> </p>
 
+## Live Projects.
+
 - 😄 `Portfolio WebApp Using MEAN` in progress.
-- 🔭 Currently working on rtCamp Comics PHP Project( A CronJob Work )
+- 💭 PHP: Subscribe and get `Web Comics` in email after every 5 minutes (<https://free-webcomic.herokuapp.com/>).
+- 🧑‍🎓 Angular: Student details list web app with login/signup (<https://rk-ng-first.web.app/>). 
+- 📆 Android: An android app `All-In-One Days Calc` use to calculate date related operations (<https://play.google.com/store/apps/details?id=com.ideaIntoCode.adc>).
+- 🧑‍💻 Android: An android app `RKU Student` use to view daily college schedule and other details (<https://play.google.com/store/apps/details?id=com.rku.students>).
 
   <p align="center"><img height="240em" src="https://github-readme-streak-stats.herokuapp.com/?user=clubofcodes&theme=dark&hide_border=true&background=FFFFFF00&stroke=DD2727&border=DD2727&ring=DD2727&fire=FEE20A&currStreakNum=DD2727&currStreakLabel=00A62E&sideLabels=1976D2CC&background=000"></p>
 ## Languages and Tools:
