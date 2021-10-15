@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋 I'm Hellish RJ :man_technologist:</h1>
+<h1 align="center">👋 Hello World 🌏, I'm Hellish RJ :man_technologist:</h1>
 <h3 align="center"><i>❝ Welcome to club of codes❞</i></h3></br>
 <p id="dev-logo" align="center"><img src="img/bitmoji.png" width="100"></p>
 <h3 align="center">A Web and Mobile App Developer & Troubleshooter!!</h3>
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clubofcodes&label=PROFILE+VIEWS&color=red&style=plastic" alt="clubofcodes" /> </p>
 
-## Live Projects.
+## Live Projects:
 
 - 😄 `Portfolio WebApp Using MEAN` in progress.
 - 💭 PHP: Subscribe and get `Web Comics` in email after every 5 minutes (<https://free-webcomic.herokuapp.com/>).
