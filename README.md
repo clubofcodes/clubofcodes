@@ -5,15 +5,15 @@
 
 <!-- <h4 align="left">Connect with me:</h4> -->
 <p align="center">
-<a href="https://twitter.com/rahuljagetiya75" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="rahuljagetiya75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/rahul-jagetia" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="rahul-jagetia" width="40" /></a>&emsp;<a href="https://instagram.com/rahuljagetiya_rj" target="blank"><img align="center" src="img/Instagram_5296765.svg" alt="rahuljagetiya_rj" width="40" /></a>&emsp;<a href="https://wa.me/+917990175306" target="blank"><img align="center" src="img/wp.svg" alt="rjwp" width="40" /></a>&emsp;<a href="mailto:rjagetiya780@rku.ac.in" target="_blank"><img align="center" src="img/gmail.svg" alt="rjagetiya780@rku.ac.in" width="40" /></a></p>
+<a href="https://twitter.com/rahuljagetiya75" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="rahuljagetiya75" width="40" /></a>&emsp;<a href="https://linkedin.com/in/rahul-jagetia" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin-2.png" alt="rahul-jagetia" width="40" /></a>&emsp;<a href="https://www.facebook.com/rahul8347/" target="_blank"><img align="center" src="img/fb.svg" alt="rahul-jagetia" width="40" /></a>&emsp;<a href="https://instagram.com/rahuljagetiya_rj" target="_blank"><img align="center" src="img/Instagram_5296765.svg" alt="rahuljagetiya_rj" width="40" /></a>&emsp;<a href="https://wa.me/+917990175306" target="_blank"><img align="center" src="img/wp.svg" alt="rjwp" width="40" /></a>&emsp;<a href="mailto:rjagetiya780@rku.ac.in" target="_blank"><img align="center" src="img/gmail.svg" alt="rjagetiya780@rku.ac.in" width="40" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clubofcodes&label=PROFILE+VIEWS&color=red&style=plastic" alt="clubofcodes" /> </p>
 
 ## Live Projects:
 
-- 😄 `Portfolio WebApp Using MEAN` in progress.
+- 😄 MEAN: My Portfolio `WebApp` Using Angular, Node and MongoDB (<https://rjcv.herokuapp.com/>) and is `Under Development`.
 - 💭 PHP: Subscribe and get `Web Comics` in email after every 5 minutes (<https://free-webcomic.herokuapp.com/>).
-- 🧑‍🎓 Angular: Student details list web app with login/signup (<https://rk-ng-first.web.app/>). 
+- 🧑‍🎓 Angular: Student details list `WebApp` with login/signup (<https://rk-ng-first.web.app/>). 
 - 📆 Android: An android app `All-In-One Days Calc` use to calculate date related operations (<https://play.google.com/store/apps/details?id=com.ideaIntoCode.adc>).
 - 🧑‍💻 Android: An android app `RKU Student` use to view daily college schedule and other details (<https://play.google.com/store/apps/details?id=com.rku.students>).
 
