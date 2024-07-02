@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World 🌏, I'm Hellish RJ :man_technologist:</h1>
 <h3 align="center"><i>❝ Welcome to club of codes❞</i></h3></br>
 <p id="dev-logo" align="center"><img src="img/bitmoji.png" width="100"></p>
-<h3 align="center">A Web and Mobile App Developer & Troubleshooter!!</h3>
+<h3 align="center">A MERN Stack Developer with a keen eye for debugging. I'm passionate about unraveling code complexities and finding elegant solutions.</h3>
 
 <!-- <h4 align="left">Connect with me:</h4> -->
 <p align="center">
