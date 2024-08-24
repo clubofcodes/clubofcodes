@@ -11,9 +11,9 @@
 
 ## Live Projects:
 
-- 😄 MEAN: My Portfolio `WebApp` Using Angular, Node and MongoDB (<https://rjcv.herokuapp.com/>) and is `Under Development`.
-- 💭 PHP: Subscribe and get `Web Comics` in email after every 5 minutes (<https://free-webcomic.herokuapp.com/>).
-- 🧑‍🎓 Angular: Student details list `WebApp` with login/signup (<https://rk-ng-first.web.app/>). 
+- 😄 MEAN: My Portfolio `WebApp` Using Angular, Node and MongoDB ([Portfolio POC](https://rjportfolio.vercel.app/)) and is `Under Development`.
+- 🧑‍🎓 Angular: Student details list `WebApp` with login/signup (<https://rk-ng-first.web.app/>).
+- 💭 PHP: Subscribe and get `Web Comics` in email after every 5 minutes ([SMTP & CronJob POC](<https://free-webcomic.herokuapp.com/>)).
 - 📆 Android: An android app `All-In-One Days Calc` use to calculate date related operations (<https://play.google.com/store/apps/details?id=com.ideaIntoCode.adc>).
 - 🧑‍💻 Android: An android app `RKU Student` use to view daily college schedule and other details (<https://play.google.com/store/apps/details?id=com.rku.students>).
 
